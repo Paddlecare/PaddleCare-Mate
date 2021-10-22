@@ -20,4 +20,4 @@ Including multiple modes of medical image data such as X-ray, CT and MRI.
 It is free for PaddleCare users and can be used as follows:
 
 
-Please refer to: 
+💁  📧 Please refer to: 
